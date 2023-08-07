@@ -38,5 +38,8 @@
 
 Ноутбук предоставляет визуализацию аудио волн и спектрограмм для различных эмоций.<img width="641" alt="image" src="https://github.com/Annaprav/Recognition-of-emotions-by-audio/assets/91620914/9698e1db-ae11-43a2-9d83-4549f4347c73">
 
+<img width="688" alt="image" src="https://github.com/Annaprav/Recognition-of-emotions-by-audio/assets/91620914/f9e1f124-77d9-49ae-9464-c5b63be0b7b8">
+
+
 
 
